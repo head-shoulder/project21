@@ -1,0 +1,22 @@
+{
+  "name": "project21",
+  "version": "1.0.0",
+  "description": "Project 21",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/head-shoulder/project21.git"
+  },
+  "author": "Naseer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/head-shoulder/project21/issues"
+  },
+  "homepage": "https://github.com/head-shoulder/project21#readme",
+  "dependencies": {
+    "blynk-library": "^0.5.4"
+  }
+}
